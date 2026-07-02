@@ -45,7 +45,7 @@ This Streamlit app provides a platform for analyzing stock data uploaded by the 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/stock-analysis.git
+    git clone (https://github.com/shuklapraveen1/Stock_Analysis_and_Visualization_using_AI.git
     cd stock-analysis
     ```
 
